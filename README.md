@@ -1,4 +1,4 @@
-# WilliamsCook2026_VRsimulation
+# WilliamsCookVRsimulation
 
 VRSimulation.R and VRSimulation_post_processing.R include the simulation and post processing code used to produce the simulation study described in the manuscript, "Analysis of Analytical Treatment Interruption Trials with Misclassified Interval-Censored Data: A Systematic Review and Simulation Study." The authors of this project are Skyler Williams (Smith College, Massachusetts General Hospital) and Kaitlyn Cook (Smith College). Find the full description and explanation of our simulation study in the publication. Below, we briefly describe how to run the simulation and post processing, although both scripts are commented with further detail and explanation.  We also offer a description for each variable in the final dataset that the simulation and post-processing returns. Notably, our code to calculate the RMST and execute the test of the difference in RMST with interval-censored data is included in VRSimulation.R. 
 
